@@ -1,0 +1,17 @@
+C:\Users\120221\Desktop\FightinGame\FightinGame\FightinGame\bin\x86\Debug\Content\Sprites\Background.xnb
+C:\Users\120221\Desktop\FightinGame\FightinGame\FightinGame\bin\x86\Debug\FightinGame.exe
+C:\Users\120221\Desktop\FightinGame\FightinGame\FightinGame\bin\x86\Debug\FightinGame.pdb
+C:\Users\120221\Desktop\FightinGame\FightinGame\FightinGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\120221\Desktop\FightinGame\FightinGame\FightinGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\120221\Desktop\FightinGame\FightinGame\FightinGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\120221\Desktop\FightinGame\FightinGame\FightinGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\120221\Desktop\FightinGame\FightinGame\FightinGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\120221\Desktop\FightinGame\FightinGame\FightinGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\120221\Desktop\FightinGame\FightinGame\FightinGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\120221\Desktop\FightinGame\FightinGame\FightinGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\120221\Desktop\FightinGame\FightinGame\FightinGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\120221\Desktop\FightinGame\FightinGame\FightinGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\120221\Desktop\FightinGame\FightinGame\FightinGame\obj\x86\Debug\FightinGame.csprojResolveAssemblyReference.cache
+C:\Users\120221\Desktop\FightinGame\FightinGame\FightinGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\120221\Desktop\FightinGame\FightinGame\FightinGame\obj\x86\Debug\FightinGame.exe
+C:\Users\120221\Desktop\FightinGame\FightinGame\FightinGame\obj\x86\Debug\FightinGame.pdb

@@ -1,0 +1,17 @@
+C:\Users\130513\Desktop\VGD\Visual Studio 2015\Projects\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Content\Screens\wipTitleScreen.xnb
+C:\Users\130513\Desktop\VGD\Visual Studio 2015\Projects\FightingGame\FightingGame\FightingGame\bin\x86\Debug\FightingGame.exe
+C:\Users\130513\Desktop\VGD\Visual Studio 2015\Projects\FightingGame\FightingGame\FightingGame\bin\x86\Debug\FightingGame.pdb
+C:\Users\130513\Desktop\VGD\Visual Studio 2015\Projects\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\130513\Desktop\VGD\Visual Studio 2015\Projects\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\130513\Desktop\VGD\Visual Studio 2015\Projects\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\130513\Desktop\VGD\Visual Studio 2015\Projects\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\130513\Desktop\VGD\Visual Studio 2015\Projects\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\130513\Desktop\VGD\Visual Studio 2015\Projects\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\130513\Desktop\VGD\Visual Studio 2015\Projects\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\130513\Desktop\VGD\Visual Studio 2015\Projects\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\130513\Desktop\VGD\Visual Studio 2015\Projects\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\130513\Desktop\VGD\Visual Studio 2015\Projects\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\130513\Desktop\VGD\Visual Studio 2015\Projects\FightingGame\FightingGame\FightingGame\obj\x86\Debug\FightingGame.csprojResolveAssemblyReference.cache
+C:\Users\130513\Desktop\VGD\Visual Studio 2015\Projects\FightingGame\FightingGame\FightingGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\130513\Desktop\VGD\Visual Studio 2015\Projects\FightingGame\FightingGame\FightingGame\obj\x86\Debug\FightingGame.exe
+C:\Users\130513\Desktop\VGD\Visual Studio 2015\Projects\FightingGame\FightingGame\FightingGame\obj\x86\Debug\FightingGame.pdb

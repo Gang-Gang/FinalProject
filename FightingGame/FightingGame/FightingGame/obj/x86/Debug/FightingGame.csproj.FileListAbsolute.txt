@@ -15,3 +15,21 @@ C:\Users\129872\Desktop\Visual Studio Projects\FinalProject-master\FightingGame\
 C:\Users\129872\Desktop\Visual Studio Projects\FinalProject-master\FightingGame\FightingGame\FightingGame\obj\x86\Debug\FightingGame.exe
 C:\Users\129872\Desktop\Visual Studio Projects\FinalProject-master\FightingGame\FightingGame\FightingGame\obj\x86\Debug\FightingGame.pdb
 C:\Users\129872\Desktop\Visual Studio Projects\FinalProject-master\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Content\White square.xnb
+C:\Users\130513\Desktop\FinalProject-master\FinalProject-master\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Content\White square.xnb
+C:\Users\130513\Desktop\FinalProject-master\FinalProject-master\FightingGame\FightingGame\FightingGame\bin\x86\Debug\FightingGame.exe
+C:\Users\130513\Desktop\FinalProject-master\FinalProject-master\FightingGame\FightingGame\FightingGame\bin\x86\Debug\FightingGame.pdb
+C:\Users\130513\Desktop\FinalProject-master\FinalProject-master\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\130513\Desktop\FinalProject-master\FinalProject-master\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\130513\Desktop\FinalProject-master\FinalProject-master\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\130513\Desktop\FinalProject-master\FinalProject-master\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\130513\Desktop\FinalProject-master\FinalProject-master\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\130513\Desktop\FinalProject-master\FinalProject-master\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\130513\Desktop\FinalProject-master\FinalProject-master\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\130513\Desktop\FinalProject-master\FinalProject-master\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\130513\Desktop\FinalProject-master\FinalProject-master\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\130513\Desktop\FinalProject-master\FinalProject-master\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\130513\Desktop\FinalProject-master\FinalProject-master\FightingGame\FightingGame\FightingGame\obj\x86\Debug\FightingGame.csprojResolveAssemblyReference.cache
+C:\Users\130513\Desktop\FinalProject-master\FinalProject-master\FightingGame\FightingGame\FightingGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\130513\Desktop\FinalProject-master\FinalProject-master\FightingGame\FightingGame\FightingGame\obj\x86\Debug\FightingGame.exe
+C:\Users\130513\Desktop\FinalProject-master\FinalProject-master\FightingGame\FightingGame\FightingGame\obj\x86\Debug\FightingGame.pdb
+C:\Users\130513\Desktop\FinalProject-master\FinalProject-master\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Content\Screens\wipTitleScreen.xnb

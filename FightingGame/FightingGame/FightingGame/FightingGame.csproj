@@ -74,6 +74,7 @@
   <ItemGroup>
     <Compile Include="Background.cs" />
     <Compile Include="Fighter.cs" />
+    <Compile Include="Move.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Game1.cs" />

@@ -12,23 +12,17 @@ using Microsoft.Xna.Framework.Media;
 
 namespace FightingGame
 {
-    class Fighter
+    class Move
     {
-        public String name;
-        public Texture2D[] movementAnimations;
-        public int health;
-        public Move[] moveset;
-        public int speed;
-        //hitboxes+hurtboxes
-        //armor? maybe later
+        Texture2D[] animations;
+        String name;
+        int damage;
 
-        public Fighter(String n, Texture2D[] a, int h, Move[] m, int s)
+        public Move(Texture2D[] a, String n, int d)
         {
+            animations = a;
             name = n;
-            movementAnimations = a;
-            health = h;
-            moveset = m;
-            speed = s;
+            damage = d;
         }
     }
 }

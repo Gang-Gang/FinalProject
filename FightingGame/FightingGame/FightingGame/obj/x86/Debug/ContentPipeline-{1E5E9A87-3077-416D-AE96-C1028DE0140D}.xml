@@ -2,13 +2,13 @@
 <XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
   <Asset Type="Pipeline:BuildItemCollection">
     <Item>
-      <Source>White square.png</Source>
-      <Name>White square</Name>
+      <Source>Screens\wipTitleScreen.jpg</Source>
+      <Name>Screens\wipTitleScreen</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\129872\Desktop\Visual Studio Projects\FinalProject-master\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Content\White square.xnb</Output>
-      <Time>2018-04-27T09:03:50.7399181-05:00</Time>
+      <Output>C:\Users\130513\Desktop\VGD\Visual Studio 2015\Projects\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Content\Screens\wipTitleScreen.xnb</Output>
+      <Time>2018-04-25T09:31:01.5182633-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -17,10 +17,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\129872\Desktop\Visual Studio Projects\FinalProject-master\FightingGame\FightingGame\FightingGameContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\129872\Desktop\Visual Studio Projects\FinalProject-master\FightingGame\FightingGame\FightingGame\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\129872\Desktop\Visual Studio Projects\FinalProject-master\FightingGame\FightingGame\FightingGame\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\129872\Desktop\Visual Studio Projects\FinalProject-master\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\130513\Desktop\VGD\Visual Studio 2015\Projects\FightingGame\FightingGame\FightingGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\130513\Desktop\VGD\Visual Studio 2015\Projects\FightingGame\FightingGame\FightingGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\130513\Desktop\VGD\Visual Studio 2015\Projects\FightingGame\FightingGame\FightingGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\130513\Desktop\VGD\Visual Studio 2015\Projects\FightingGame\FightingGame\FightingGame\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

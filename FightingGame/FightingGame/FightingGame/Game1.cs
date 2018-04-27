@@ -18,6 +18,8 @@ namespace FightingGame
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+        Texture2D titleScreen;
+        Rectangle fullScreen;
         Rectangle p1Rect;
         Rectangle p2Rect;
         PlayerIndex p1 = PlayerIndex.One;
@@ -27,6 +29,10 @@ namespace FightingGame
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
+            Window.AllowUserResizing = true;
+            graphics.PreferredBackBufferHeight = 1010;
+            graphics.PreferredBackBufferWidth = 1920;
+            graphics.ApplyChanges();
             Content.RootDirectory = "Content";
         }
 
@@ -41,6 +47,7 @@ namespace FightingGame
             // TODO: Add your initialization logic here
             p1Rect = new Rectangle(0, 0, 50, 150);
             p2Rect = new Rectangle(500, 0, 50, 150);
+            fullScreen = new Rectangle(0, 0, 1920, 1080);
             base.Initialize();
         }
 
@@ -52,7 +59,7 @@ namespace FightingGame
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
-
+            titleScreen = this.Content.Load<Texture2D>("Screens/wipTitleScreen");
             // TODO: use this.Content to load your game content here
             texture = Content.Load<Texture2D>("White square");
         }
@@ -114,6 +121,7 @@ namespace FightingGame
 
             // TODO: Add your drawing code here
             spriteBatch.Begin();
+            spriteBatch.Draw(titleScreen, fullScreen, Color.White);
             spriteBatch.Draw(texture, p1Rect, Color.White);
             spriteBatch.Draw(texture, p2Rect, Color.White);
             spriteBatch.End();
